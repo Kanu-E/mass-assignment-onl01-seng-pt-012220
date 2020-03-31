@@ -7,5 +7,12 @@ def initialize(name:nil, birthday:nil, hair_color:nil)
   @name = name
   @birthday = birthday
   @hair_color = hair_color
+  @eye_color = eye_color
+  @height = height
+  @weight = weight
+  @handed =handed
+  @complexion = complexion
+  @t_shirt_size = t_shirt_size
+  @wrist_size, 
 end
 end
