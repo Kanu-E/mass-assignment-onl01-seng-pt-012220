@@ -17,6 +17,6 @@ def initialize(name: nil, birthday: nil, hair_color: nil, eye_color: nil, height
   @wrist_size, = wrist_size
   @glove_size = glove_size
   @pant_width = pant_width
-  @pant_length = pant_length
+ 
 end
 end
