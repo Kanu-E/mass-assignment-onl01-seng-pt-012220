@@ -3,7 +3,7 @@ attr_reader :name, :birthday, :hair_color, :eye_color, :height,
 :weight, :handed, :complexion, :t_shirt_size, 
 :wrist_size, :glove_size, :pant_length, :pant_width
 
-def initialize (:avi_attributes)(name:nil, birthday:nil, hair_color:nil)
+def initialize(name:nil, birthday:nil, hair_color:nil)
   @name = name
   @birthday = birthday
   @hair_color = hair_color
