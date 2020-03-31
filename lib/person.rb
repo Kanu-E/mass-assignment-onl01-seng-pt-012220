@@ -4,7 +4,7 @@ attr_reader :name, :birthday, :hair_color, :eye_color, :height,
 :wrist_size, :glove_size, :pant_length, :pant_width
 
 def initialize(name: nil, birthday: nil, hair_color: nil, eye_color: nil, height: nil, weight: nil, handed: nil,
-  complexion: nil, t_shirt_size: nil, wrist_size: nil, glove_size: nil, pant_length: nil, pant_width:)
+  complexion: nil, t_shirt_size: nil, wrist_size: nil, glove_size: nil, pant_length: nil, pant_width: nil)
   @name = name
   @birthday = birthday
   @hair_color = hair_color
